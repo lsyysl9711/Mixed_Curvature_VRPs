@@ -49,11 +49,8 @@ We want to express our sincere thanks to the following works:
 
 ## Citations
 
-<details>
-  
-<summary><strong>📄 Citation (BibTeX)</strong></summary>
   <div style="position: relative">
-    <button onclick="navigator.clipboard.writeText(document.getElementById('bibtex-cite').innerText)" style="position: absolute; top: 4px; right: 4px;">📋 Copy</button>
+    <button onclick="navigator.clipboard.writeText(document.getElementById('bibtex-cite').innerText)" style="position: absolute; top: 4px; right: 4px;"></button>
     <pre id="bibtex-cite"><code>
 @inproceedings{liu2025mixed,
   title     = {A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver},
@@ -64,5 +61,4 @@ We want to express our sincere thanks to the following works:
     </code></pre>
   </div>
 
-</details>
 
