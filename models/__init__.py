@@ -1,7 +1,9 @@
+from .manifolds import *
+from .networks import *
+from .MTLModel_Mixed import *
 from .SINGLEModel import *
 from .MTLModel import *
 from .MOEModel import *
 from .MOEModel_Light import *
-from .hierarchical_vrp_model import *
-from .hierarchical_vrp_model_with_skips import *
-
+from .MOEModel_Mixed import *
+from .MOEModel_Light_Mixed import *
