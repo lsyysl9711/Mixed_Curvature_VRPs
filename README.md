@@ -45,7 +45,9 @@ We want to express our sincere thanks to the following works:
 
 [Geoopt: Riemannian Optimization in PyTorch](https://github.com/geoopt/geoopt)
 
-[Mixed-Curvature Transformers for Graph Representation Learning](https://openreview.net/forum?id=DFnk58DwTE)
+[Mixed-Curvature Transformers for Graph Representation Learning](https://openreview.net/forum?id=DFnk58DwTE) 
+
+[Community detection on networks with ricci flow](https://github.com/saibalmars/GraphRicciCurvature)
 
 ## Citations
 
