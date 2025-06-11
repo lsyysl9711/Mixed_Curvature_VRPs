@@ -25,15 +25,15 @@ derlying geometric properties of each instance. We modify multi-task solvers lik
 # Acknowledgments
 We want to express our sincere thanks to the following works:
 
-https://github.com/yd-kwon/POMO
+[POMO: Policy Optimization with Multiple Optima for Reinforcement Learning](https://github.com/yd-kwon/POMO)
 
-https://github.com/RoyalSkye/Routing-MVMoE
+[MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts](https://github.com/RoyalSkye/Routing-MVMoE)
 
-https://github.com/ai4co/routefinder
+[RouteFinder: Towards Foundation Models for Vehicle Routing Problems](https://github.com/ai4co/routefinder)
 
-https://github.com/ai4co/rl4co
+[RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark](https://github.com/ai4co/rl4co)
 
-https://github.com/geoopt/geoopt
+[Geoopt: Riemannian Optimization in PyTorch](https://github.com/geoopt/geoopt)
 
 [Mixed-Curvature Transformers for Graph Representation Learning](https://openreview.net/forum?id=DFnk58DwTE)
 
