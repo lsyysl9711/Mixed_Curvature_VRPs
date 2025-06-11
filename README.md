@@ -2,6 +2,7 @@
 This is the code repo of the implementation for the ICML 2025 paper: 
 
 *A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver*
+![VD (1)](https://github.com/user-attachments/assets/b42447c2-b738-4aef-97b4-5e011f909f48)
 
 It is a neural solver established on the geometric curvature spaces where hidden features are processed through the non-Euclidean spaces, encouraging the model to capture the un
 derlying geometric properties of each instance. We modify multi-task solvers like POMO-MTL and MVMoE(-L) into this geometric learning settings. We provide their implementations in files MTLModel_Mixed.py, MOEModel_Mixed.py and MOEModel_Light_Mixed.py, respectively.
@@ -28,6 +29,8 @@ Python >= 3.9
 Pytorch >= 2.0.0
 
 Geoopt >= 0.4.0
+
+CUDA >= 11.8
 
 # Acknowledgments
 We want to express our sincere thanks to the following works:
