@@ -22,6 +22,13 @@ derlying geometric properties of each instance. We modify multi-task solvers lik
    
        python train.py --problem=Train_ALL --model_type=MOE_LIGHT_Mixed
 
+# Dependency
+Python >= 3.9
+
+Pytorch >= 2.0.0
+
+Geoopt >= 0.4.0
+
 # Acknowledgments
 We want to express our sincere thanks to the following works:
 
