@@ -56,7 +56,7 @@ We want to express our sincere thanks to the following works:
     <button onclick="navigator.clipboard.writeText(document.getElementById('bibtex-cite').innerText)" style="position: absolute; top: 4px; right: 4px;">📋 Copy</button>
     <pre id="bibtex-cite"><code>
 @inproceedings{liu2025mixed,
-  title     = {AMixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver},
+  title     = {A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver},
   author    = {Suyu Liu and Zhiguang Cao and Shanshan Feng and Yew-Soon Ong},
   booktitle = {International Conference on Machine Learning},
   year      = {2025}
